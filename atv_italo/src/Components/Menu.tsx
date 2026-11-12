@@ -7,7 +7,7 @@ export function Menu(){
     return(
     
         <div>
-            <p> Testagem </p>
+            <p> 87 É DO SPORT </p>
         </div>
     );
 }
