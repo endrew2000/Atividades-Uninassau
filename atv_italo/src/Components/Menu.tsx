@@ -7,7 +7,7 @@ export function Menu(){
     return(
     
         <div>
-            <p> Teste </p>
+            <p> Testagem </p>
         </div>
-    )
+    );
 }
