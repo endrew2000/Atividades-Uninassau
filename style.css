@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(224, 247, 244);
+    text-align: center;
+}
+
+input, select {
+    border: solid 2px;
+    border-radius: 8px;
+    padding: 8px 10px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+div{
+    font-size: 25px;
+}
+
+#retorno{
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 5px;
+    border: solid 2px;
+    border-radius: 8px;
+    padding: 0px;
+}
